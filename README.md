@@ -58,10 +58,10 @@ Password Strength: Very Strong 💪
 
 ## 🌱 Future Improvements
 
-* [ ] Add a GUI version with Tkinter.
-* [ ] Suggest how to make a weak password stronger.
-* [ ] Check passwords against common leaked password lists.
-* [ ] Turn it into a web app using Flask/Django.
+*  Add a GUI version with Tkinter.
+*  Suggest how to make a weak password stronger.
+*  Check passwords against common leaked password lists.
+*  Turn it into a web app using Flask/Django.
 
 
 
